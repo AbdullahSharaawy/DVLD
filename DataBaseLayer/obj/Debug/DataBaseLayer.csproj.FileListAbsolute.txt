@@ -1,0 +1,6 @@
+D:\TheBigProject\DataBaseLayer\bin\Debug\DataBaseLayer.dll
+D:\TheBigProject\DataBaseLayer\bin\Debug\DataBaseLayer.pdb
+D:\TheBigProject\DataBaseLayer\obj\Debug\DataBaseLayer.csproj.AssemblyReference.cache
+D:\TheBigProject\DataBaseLayer\obj\Debug\DataBaseLayer.csproj.CoreCompileInputs.cache
+D:\TheBigProject\DataBaseLayer\obj\Debug\DataBaseLayer.dll
+D:\TheBigProject\DataBaseLayer\obj\Debug\DataBaseLayer.pdb
