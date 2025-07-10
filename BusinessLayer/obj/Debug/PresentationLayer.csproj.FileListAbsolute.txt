@@ -1,0 +1,9 @@
+D:\TheBigProject\PresentationLayer\bin\Debug\PresentationLayer.dll
+D:\TheBigProject\PresentationLayer\bin\Debug\PresentationLayer.pdb
+D:\TheBigProject\PresentationLayer\bin\Debug\DataBaseLayer.dll
+D:\TheBigProject\PresentationLayer\bin\Debug\DataBaseLayer.pdb
+D:\TheBigProject\PresentationLayer\obj\Debug\PresentationLayer.csproj.AssemblyReference.cache
+D:\TheBigProject\PresentationLayer\obj\Debug\PresentationLayer.csproj.CoreCompileInputs.cache
+D:\TheBigProject\PresentationLayer\obj\Debug\Presenta.9C561136.Up2Date
+D:\TheBigProject\PresentationLayer\obj\Debug\PresentationLayer.dll
+D:\TheBigProject\PresentationLayer\obj\Debug\PresentationLayer.pdb
